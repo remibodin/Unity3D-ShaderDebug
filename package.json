@@ -1,11 +1,10 @@
 {
-    "name": "com.nrtx.shader-debug",
-    "displayName": "Shader Debug",
-    "version": "1.0.0",
-    "unity": "2018.1",
-    "description": "Shader to debug normal UV and color mesh",
-    "keywords": [],
-    "category": "Shaders",
-    "author": "Nrtx",
-    "dependencies": {}
+  "name": "com.nrtx.shader-debug",
+  "displayName": "Shader Debug",
+  "version": "1.0.0",
+  "unity": "2019.3",
+  "description": "Shader to debug normal, UV, UV checker and vertex color on mesh.",
+  "keywords": [],
+  "category": "Shaders",
+  "author": "Nrtx"
 }
