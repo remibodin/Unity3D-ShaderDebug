@@ -3,7 +3,7 @@
   "displayName": "Shader Debug",
   "version": "1.0.0",
   "unity": "2019.3",
-  "description": "Shader to debug normal, UV, UV checker and vertex color on mesh.",
+  "description": "Shader to debug normal, UV (with color or checker) and vertex color on mesh.",
   "keywords": [],
   "category": "Shaders",
   "author": "Nrtx"

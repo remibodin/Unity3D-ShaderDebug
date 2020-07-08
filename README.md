@@ -1,6 +1,6 @@
 # Unity3D-ShaderDebug
 
-Simple shader to display normal, UV, UV checker and vertex color.
+Simple shader to display normal, UV (with color or checker) and vertex color.
 
 ## Install
 
@@ -8,14 +8,15 @@ You can choose one of this solutions.
 
 - Cloning this repo in Packages directory.
 ```
-Assets
-Packages
+Assets/
+Packages/
     manifest.json
-    Unity3D-ShaderDebug
-ProjectSettings
+    Unity3D-ShaderDebug/
+        ...
+ProjectSettings/
 ```
 
-- [Git support of Unity Package Manager](https://docs.unity3d.com/Manual/upm-ui-giturl.html). Select **Add package from git URL** from the add menu and paste repo url in textfield (https://github.com/remibodin/Unity3D-ShaderDebug.git)
+- [Unity Package Manager](https://docs.unity3d.com/Manual/upm-ui-giturl.html). Select **Add package from git URL** from the add menu and paste repo url in textfield (https://github.com/remibodin/Unity3D-ShaderDebug.git)
 
 - (soon) With OpenUPM
 
