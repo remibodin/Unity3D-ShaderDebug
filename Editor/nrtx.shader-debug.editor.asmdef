@@ -1,0 +1,17 @@
+{
+    "name": "nrtx.shader-debug.editor",
+    "references": [
+        "GUID:ddb31bad276234e06b187b2a52e1b1d4"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

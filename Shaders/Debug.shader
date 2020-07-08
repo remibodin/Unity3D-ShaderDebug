@@ -1,4 +1,4 @@
-﻿Shader "Apperture/DebugMesh"
+﻿Shader "Nrtx/Debug"
 {
 	Properties
 	{
@@ -81,5 +81,5 @@
 			ENDCG
 		}
 	}
-    CustomEditor "DebugMaterialEditor"
+    CustomEditor "Nrtx.Shaders.Editor.DebugMaterialEditor"
 }
